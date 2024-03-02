@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mercy-2512
 - 👀 I’m interested in web devlopment, artificial intelligence and machine learning
-- 🌱 I’m currently learning React, NodeJs, Machine Learning 
+- 🌱 I’m currently learning React, NodeJs and Machine Learning 
 - 💞️ I’m looking to collaborate on different sectors
 - 📫 How to reach me mercynicholas2512@gmail.com
 
